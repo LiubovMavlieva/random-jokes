@@ -1,0 +1,11 @@
+.content__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background: rgb(233 255 255 / 50%);
+  border: 4px dashed rgb(140 159 255);
+  margin: 0 auto;
+  position: relative;
+}
