@@ -1,0 +1,17 @@
+.content__change-joke {
+  margin: 0 30px;
+  width: 250px;
+  height: 50px;
+  border: none;
+  font-size: 25px;
+  color: white;
+  background: linear-gradient(to right, red, #fc41ff, #2196f3, #33a533, #29a7a7, blue, violet);
+  background-size: 400% 400%;
+  -webkit-animation: rainbow 20s ease infinite;
+  animation: rainbow 20s ease infinite;
+  cursor: pointer;
+}
+
+.content__change-joke:hover {
+  background-size: 600%;
+}

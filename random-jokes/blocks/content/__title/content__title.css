@@ -1,0 +1,12 @@
+.content__title {
+  background: linear-gradient(to right, red, #fc41ff, #2196f3, #33a533, #29a7a7, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 100px;
+  line-height: 1.2;
+  background-size: 400% 400%;
+  -webkit-animation: rainbow 20s ease infinite;
+  animation: rainbow 20s ease infinite;
+  text-align: center;
+  margin: 30px;
+}
